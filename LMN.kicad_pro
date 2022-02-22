@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../MCAD/v3/PCB/LMN3-PCB.step",
+      "step": "../LMN-3-MCAD/pcb/LMN3-pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

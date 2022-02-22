@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="37.918259mm"
-   height="37.918259mm"
-   viewBox="0 0 37.918259 37.918259"
+   width="47.122101mm"
+   height="33.037842mm"
+   viewBox="0 0 47.122101 33.037842"
    version="1.1"
    id="svg5"
    sodipodi:docname="lemon.svg"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.0075196"
-     inkscape:cx="28.096242"
-     inkscape:cy="36.07624"
+     inkscape:cx="45.053738"
+     inkscape:cy="26.766243"
      inkscape:window-width="1874"
      inkscape:window-height="1016"
      inkscape:window-x="1966"
@@ -38,33 +38,32 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-80.773406,-107.95949)">
+     transform="translate(-76.316902,-110.3997)">
     <g
        id="g1320">
       <ellipse
          style="fill:#ffff00;stroke:none;stroke-width:0.250418;stroke-opacity:1"
          id="path55"
-         cx="-19.223467"
-         cy="160.26657"
+         cx="99.732536"
+         cy="126.91862"
          rx="21.119244"
-         ry="16.518921"
-         transform="rotate(-45)" />
+         ry="16.518921" />
       <ellipse
          style="fill:#ffff00;stroke:none;stroke-width:0.264583;stroke-opacity:1"
          id="path57"
-         cx="-1.8855371"
-         cy="160.63293"
+         cx="-117.07047"
+         cy="-127.28499"
          rx="6.3685308"
          ry="5.7459908"
-         transform="rotate(-45)" />
+         transform="scale(-1)" />
       <ellipse
          style="fill:#ffff00;stroke:none;stroke-width:0.264583;stroke-opacity:1"
          id="path57-1"
-         cx="-36.270569"
-         cy="160.63817"
+         cx="-82.685432"
+         cy="-127.29022"
          rx="6.3685308"
          ry="5.7459908"
-         transform="rotate(-45)" />
+         transform="scale(-1)" />
     </g>
   </g>
 </svg>
