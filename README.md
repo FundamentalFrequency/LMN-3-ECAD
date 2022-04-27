@@ -27,7 +27,9 @@ repositories:
 | Raspberry Pi               | Raspberry Pi 4                   | 1        |                                                                                                |
 | Screen                     | Hyperpixel 4                     | 1        | https://www.sparkfun.com/products/15357                                                        |
 | USB to Mini USB Cable      | CERRXIAN 9Inch                   | 1        | https://www.amazon.com/CERRXIAN-9Inch-Cable-Charge-2-Pack/dp/B07P9BRWS5                        |
-| Raspberry Pi Power Adapter | 15W USB-C                        | 1        | https://www.raspberrypi.com/products/type-c-power-supply/                                      |
+| Raspberry Pi Power Adapter | 15W USB-C                        | 1        | https://www.raspberrypi.com/products/type-c-power-supply/ 
+| Arduino Header Strip                    |                            | 2      | https://www.amazon.com/gp/product/B07PKKY8BX?psc=1                 |
+                                     
 
 The LMN-3-DAW has been tested on the 4 GB Raspberry Pi 4 only. Additionally, the Hyperpixel 4 screen also comes in a non touch version. The LMN-3-DAW does not rely on any touch capability, but the design of the touch-based Hyperpixel 4 looks nicer than the non-touch version. The non-touch version is a little bit cheaper though if you would like to keep costs down. 
 
