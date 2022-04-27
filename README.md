@@ -1,7 +1,7 @@
 # LMN-3-ECAD
 
 ![screenshot of PCB](https://github.com/stonepreston/LMN-3-ECAD/blob/main/.github/images/pcb_editor_screenshot.png)
-![screenshot of PCB Rener](https://github.com/stonepreston/LMN-3-ECAD/blob/main/.github/images/pcb_rendering.png)
+![screenshot of PCB Rendering](https://github.com/stonepreston/LMN-3-ECAD/blob/main/.github/images/pcb_rendering.png)
 
 This repository contains the [KiCad 6](https://www.kicad.org/) project files for the LMN-3 PCB.
 
