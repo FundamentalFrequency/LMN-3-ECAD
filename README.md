@@ -12,6 +12,7 @@ repositories:
 - [LMN-3-ECAD](https://github.com/stonepreston/LMN-3-ECAD)
 - [LMN-3-Firmware](https://github.com/stonepreston/LMN-3-Firmware)
 - [LMN-3-Emulator](https://github.com/stonepreston/LMN-3-Emulator)
+- [LMN-3-Keycaps](https://github.com/stonepreston/LMN-3-Keycaps)
 
 
 ## Bill of Materials
