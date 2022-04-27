@@ -41,7 +41,7 @@ This project would not be possible without the following free and open source pr
 - [Datasheet and Mechanical Drawing](https://tech.alpsalpine.com/prod/e/html/encoder/incremental/ec11/ec11e09244aq.html)
 - [3-D Model](https://www.snapeda.com/parts/EC11E09244AQ/ALPS/view-part/?welcome=home&t=EC11E)
 
-### Teensy 4.1
+#### Teensy 4.1
 - [Product Page](https://www.pjrc.com/store/teensy41.html)
 - [3-D Model](https://www.snapeda.com/parts/DEV-16771/SparkFun%20Electronics/view-part/?t=teensy)
 
