@@ -33,6 +33,9 @@ repositories:
 
 The LMN-3-DAW has been tested on the 4 GB Raspberry Pi 4 only. Additionally, the Hyperpixel 4 screen also comes in a non touch version. The LMN-3-DAW does not rely on any touch capability, but the design of the touch-based Hyperpixel 4 looks nicer than the non-touch version. The non-touch version is a little bit cheaper though if you would like to keep costs down. 
 
+## Gerbers
+Gerber files are available [here](https://github.com/stonepreston/LMN-3-ECAD/releases)
+
 ## Thanks
 This project would not be possible without the following free and open source projects:
 - [KiCad](https://www.kicad.org/)
