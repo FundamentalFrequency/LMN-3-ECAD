@@ -61,35 +61,4 @@ This project would not be possible without the following free and open source pr
 - [Footprints, Symbols, and 3-D Models](https://github.com/perigoso/keyswitch-kicad-library)
 
 ## License
-Licensed under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt) with the following exceptions:
-
-The 3-D models located in `libraries/3D_models` are licensed under the [CC-by-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license and were obtained from [SnapEDA](https://www.snapeda.com). 
-
-Note that this repository includes the [keyswitch-kicad-library](https://github.com/perigoso/keyswitch-kicad-library) which requires the following notice be included:
-```
-The MIT License (MIT)
-
-Copyright (c) 2019-2022 keyswitch-kicad-library contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software. with the exception that
-to the extent that the creation of electronic designs that use "Licensed Material"
-can be considered to be 'Adapted Material', the copyright holder waives
-this condition of the license with respect to these designs and any generated files
-which use data provided as part of the "Licensed Material".
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-```
+Licensed under the  [CC-by-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
