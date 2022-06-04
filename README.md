@@ -1,19 +1,9 @@
 # LMN-3-ECAD
 
-![screenshot of PCB](https://github.com/stonepreston/LMN-3-ECAD/blob/main/.github/images/pcb_editor_screenshot.png)
-![screenshot of PCB Rendering](https://github.com/stonepreston/LMN-3-ECAD/blob/main/.github/images/pcb_rendering.png)
+![screenshot of PCB](images/pcb_editor_screenshot.png)
+![screenshot of PCB Rendering](images/pcb_rendering.png)
 
 This repository contains the [KiCad 6](https://www.kicad.org/) project files for the LMN-3 PCB.
-
-It is a part of the larger LMN-3 project, composed of the following
-repositories:
-- [LMN-3-Build-Guide](https://github.com/stonepreston/LMN-3-Build-Guide)
-- [LMN-3-DAW](https://github.com/stonepreston/LMN-3-DAW)
-- [LMN-3-MCAD](https://github.com/stonepreston/LMN-3-MCAD)
-- [LMN-3-ECAD](https://github.com/stonepreston/LMN-3-ECAD)
-- [LMN-3-Firmware](https://github.com/stonepreston/LMN-3-Firmware)
-- [LMN-3-Emulator](https://github.com/stonepreston/LMN-3-Emulator)
-- [LMN-3-Keycaps](https://github.com/stonepreston/LMN-3-Keycaps)
 
 If you would like to support the project, please consider becoming a [sponsor](https://github.com/sponsors/stonepreston).
 
@@ -31,7 +21,7 @@ If you would like to support the project, please consider becoming a [sponsor](h
                                      
 
 ## Gerbers
-Gerber files are available [here](https://github.com/stonepreston/LMN-3-ECAD/releases) if you would like to have a board house manufacture the PCB. 
+Gerber files are available [here](https://github.com/FundamentalFrequency/LMN-3-ECAD/releases) if you would like to have a board house manufacture the PCB. 
 
 ## Thanks
 This project would not be possible without the following free and open source projects:
