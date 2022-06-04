@@ -14,8 +14,7 @@ If you would like to support the project, please consider becoming a [sponsor](h
 | Diode                      | 1N4148                           | 49       | https://www.amazon.com/McIgIcM-1n4148-switching-Standard-Through/dp/B06XB1R2NK                 |
 | Rotary Encoder             | EC11                             | 4        | https://www.amazon.com/WayinTop-Encoder-Potentiometer-Electronics-Projects/dp/B08728K3YB?psc=1 |
 | Switch                     | 5 pin mechanical keyboard switch | 45       |                                                                                                |
-| Joystick                   | COM-09032                        | 1        | https://www.sparkfun.com/products/9032                                                         |
-| Keycaps                    | Any                              | 45       |                                                                                                |
+| Joystick                   | COM-09032                        | 1        | https://www.sparkfun.com/products/9032                                                         |                                                                                        |
 | Microcontroller            | Teensy 4.1                       | 1        | https://www.pjrc.com/store/teensy41.html                                                       |
 | Arduino Header Strip                    |                            | 2      | https://www.amazon.com/gp/product/B07PKKY8BX?psc=1                 |
                                      
